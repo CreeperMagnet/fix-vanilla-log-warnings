@@ -1,0 +1,18 @@
+{
+  "pack": {
+    "pack_format": 22,
+    "description": [
+      {
+        "text": "Fix Vanilla Log Warnings",
+        "color": "dark_red"
+      },
+      {
+        "text": "\n"
+      },
+      {
+        "text": "Fixes various log warnings caused by bugs.",
+        "color": "red"
+      }
+    ]
+  }
+}
